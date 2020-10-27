@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Coutinho57/gatsby
   branch: master
-  site_domain: https://emerson-dev.netlify.app/
+  site_domain: https://emerson-dev.netlify.app
 
 publish_mode: editorial_workflow
 media_folder: 'static/assets/img'
