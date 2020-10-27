@@ -1,0 +1,9 @@
+backend:
+  name: github
+  repo: Coutinho57/gatsby
+  branch: master
+  site_domain:
+
+publish_mode: editorial_workflow
+media_folder: 'static/assets/img'
+public_folder: 'assets/img'
