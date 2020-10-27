@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: Coutinho57/gatsby
   branch: master
   site_domain: https://emerson-dev.netlify.app
